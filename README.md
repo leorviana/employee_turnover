@@ -60,3 +60,11 @@ With the insights removed and the model built, human resources will be able to s
 # Conclusion
 
 At the end of this project it was possible to reach a very good number for reducing the spending of human resources company sector, the human resources manager now has in hand which characteristics a employee that will left the company has and a model that predict if a specific employee will turnover, being thus it is correct to say that the main objective of this project was successfully achieved.
+
+# Next steps
+
+To further improve the model and generate more accurate predictions, we may collect more data and seek to identify other employee characteristics.
+
+# References
+
+Employee Future Prediction. Kaggle. Available on https://www.kaggle.com/tejashvi14/employee-future-prediction
