@@ -55,7 +55,7 @@ So, in this project, the objective is to analyze the data and help the manager t
  
  # Financial Results
 
-With the insights removed and the model built, human resources will be able to save expenses with layoffs and new hires just by identifying the employees likely to leave before they happen, and thus carry out some treatment with them.
+With the insights and the model built, human resources will be able to save expenses with layoffs and new hires just by identifying the employees likely to leave before they happen, and thus carry out some treatment with them.
 
 # Conclusion
 
