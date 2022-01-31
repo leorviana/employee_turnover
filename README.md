@@ -1,5 +1,4 @@
 # Employee Turnover
-https://www.kaggle.com/tejashvi14/employee-future-prediction
 
 ![alt text](https://static.6minutos.uol.com.br/2020/07/shutterstock_1358694809-768x506.jpg)
 
@@ -175,4 +174,5 @@ To further improve the model and generate more accurate predictions, we may coll
 # References
 
 Employee Future Prediction. Kaggle. Available on: <https://www.kaggle.com/tejashvi14/employee-future-prediction>.
+
 Redação Onze. "Entenda os impactos e o custo da demissão de funcionários para sua empresa". **onze**. Available on: <https://www.onze.com.br/blog/custo-demissao/>
