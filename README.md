@@ -6,34 +6,28 @@ https://www.kaggle.com/tejashvi14/employee-future-prediction
 # Business Question
 <b>The data below, as well as its context, is completely fictitious.</b>
 
-The company we work for has a problem where a significant number of good employees leave the company after a certain period. 
+In a meeting with the human resources team of the company we work for, we were informed that many employees leave the company after two years. 
 
-The company's human resources manager wants to understand the reasons and characteristics of an employee who will leave the company two years before it happens, in order to take the necessary steps to try to keep that employee, such as bonuses, etc.
+It was reported that the cost of leaving one employee and hiring another is approximately $15000.00. In addition, we lose productivity in the periods between the departure of an employee and the entry of another
 
-So, in this project, the objective is to analyze the data and help the manager to avoid the turnover of good employees by answering the questions below:
-<b>
+Our goal is then to help identify employees who are most likely to leave the company. The thought solution was to develop a probability estimation model.
+
+
+# Solution
   
-- What are the characteristics of the employees who leave the company?
-  
-- How can we predict whether an employee will leave the company two years from now?
-</b>
-  # Solution Strategy
-  
-  The final product will be:
-- Report with the most important characteristics of the turnover employees;
-- Classification model that predicts whether an employee will leave the company in two years;
-  
-  ## Tools 
- <p>
-  <ul>
-    <li><a href="https://www.python.org/">Python 3.9</a></li>
-    <li><a href="https://jupyter.org/">Jupyter Notebook</a></li>
-  </ul>
- </p>
+## Proposal
+Our goal is to provide a model in production for the human resources team, in addition it would be interesting if we wrote a report with some insights into the phenomena that may be influencing the dismissal of these employees.
+
+Based on information about the employee, the model should return an estimate of the probability of that employee leaving the company in the next two years.
+
+
+## Project planning
+
+
+
+## Procedure
  
- ## Procedure
- 
- ### <b>What are the characteristics of the employees who leave the company?</b>
+### What are the characteristics of the employees who leave the company?
  
  To answer this question the following steps will be followed:
 
@@ -43,17 +37,36 @@ So, in this project, the objective is to analyze the data and help the manager t
 - Performing an exploratory analysis we will look for the best features that describe a turnover employee.
 - Return this in a report.
 
-### <b>Once the best features have been identified, how do we construct the model?</b>
+### Once the best features have been identified, how do we construct the model?
  
  To construct the model, the following steps will be followed:
 
 - Data preprocessing(OneHotEncoding, normalization, imbalanced data);
 - Feature selection;
 - Modeling and choosing the best estimator;
-- Evaluating final model;
-- Deliver the model so that the Machine Learning team can put it into production;
+- Hiperparameter tuning;
+- Evaluating final model on test data;
+- Deploy the model to consumption;
+
+## Tools 
+ <p>
+  <ul>
+    <li><a href="https://www.python.org/">Python 3.9</a></li>
+    <li><a href="https://jupyter.org/">Jupyter Notebook</a></li>
+  </ul>
+ </p>
  
- # Financial Results
+ 
+# Results
+
+## Report
+
+
+## Model
+
+ 
+ 
+# Business Evaluation
 
 With the insights and the model built, human resources will be able to save expenses with layoffs and new hires just by identifying the employees likely to leave before they happen, and thus carry out some treatment with them.
 
