@@ -94,37 +94,37 @@ Data Scientist salary.
 ### 1. Employees with less time into the company
 Employees who left the company have an average of years in the company of 2.46 years while who doesn't left have an average of years of 3.18.
 <p align="left">
-  <img src="">
+  <img src="https://github.com/leorviana/employee_turnover/blob/main/images/time_employed.png">
 </p>
 
 ### 2. Employees with Master degree
 48,8% of the employees with Master Degree left the company.
 <p align="left">
-  <img src="">
+  <img src="https://github.com/leorviana/employee_turnover/blob/main/images/education.png">
 </p>
 
 ### 3. Employees from Pune
 50,4% of the employees from Pune left the company.
 <p align="left">
-  <img src="">
+  <img src="https://github.com/leorviana/employee_turnover/blob/main/images/pune.png">
 </p>
 
 ### 4. Employees with median level payment
 59,9% of the employees with median level payment left the company.
 <p align="left">
-  <img src="">
+  <img src="https://github.com/leorviana/employee_turnover/blob/main/images/payment_tier.png">
 </p>
 
 ### 5. Female employees
 47% of the female employees left the company.
 <p align="left">
-  <img src="">
+  <img src="https://github.com/leorviana/employee_turnover/blob/main/images/female.png">
 </p>
 
 ### 6. Employees who benched
 45,4% of the employees who ever benched left the company.
 <p align="left">
-  <img src="">
+  <img src="https://github.com/leorviana/employee_turnover/blob/main/images/ever_benched.png">
 </p>
 
 ## Model
