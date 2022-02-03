@@ -126,7 +126,7 @@ Employees who left the company have an average of years in the company of 2.46 y
   <img src="https://github.com/leorviana/employee_turnover/blob/main/images/ever_benched.png">
 </p>
 
-## Model
+# Model
 
 ### Model Type
 Random Forest Regressor in production that gives de probability of a turnover.
@@ -152,7 +152,7 @@ The model must be retrained with new data every 6 months or a year, depending on
 - recall_score: 0.75
 - precision_score: 0.80
 
-### Model Deploy
+## Model Deploy
 You can access the web app developed to provide the model and use it through the link: 
 <https://share.streamlit.io/leorviana/employee_turnover/main/app.py>.
 
