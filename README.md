@@ -85,6 +85,11 @@ The amount of data about the event is relatively small and it is impossible to c
  
 # Analysis and Conclusion Report
 The purpose of the report below is to further assist stakeholders with a little more in-depth analysis of certain details and phenomena observed.
+
+<p align="left">
+  <img src="https://github.com/leorviana/employee_turnover/blob/main/images/0.png">
+</p>
+
 # 1
 <p align="left">
   <img src="https://github.com/leorviana/employee_turnover/blob/main/images/rh_report_page-0001.jpg">
