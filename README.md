@@ -86,36 +86,36 @@ The amount of data about the event is relatively small and it is impossible to c
 # Analysis and Conclusion Report
 The purpose of the report below is to further assist stakeholders with a little more in-depth analysis of certain details and phenomena observed.
 
-<p align="left">
+<p align="center">
   <img src="https://github.com/leorviana/employee_turnover/blob/main/images/0.png">
 </p>
 
-# 1
+
 <p align="left">
   <img src="https://github.com/leorviana/employee_turnover/blob/main/images/rh_report_page-0001.jpg">
 </p>
 
-# 2
+
 <p align="left">
   <img src="https://github.com/leorviana/employee_turnover/blob/main/images/rh_report_page-0002.jpg">
 </p>
 
-# 3
+
 <p align="left">
   <img src="https://github.com/leorviana/employee_turnover/blob/main/images/rh_report_page-0003.jpg">
 </p>
 
-# 4
+
 <p align="left">
   <img src="https://github.com/leorviana/employee_turnover/blob/main/images/rh_report_page-0004.jpg">
 </p>
 
-# 5
+
 <p align="left">
   <img src="https://github.com/leorviana/employee_turnover/blob/main/images/rh_report_page-0005.jpg">
 </p>
 
-# 6
+
 <p align="left">
   <img src="https://github.com/leorviana/employee_turnover/blob/main/images/rh_report_page-0006.jpg">
 </p>
